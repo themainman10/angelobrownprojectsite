@@ -26,6 +26,8 @@ a:active { text-decoration: none; }
 
 #h3-1-2{
     text-align: center;
+    margin-top: 20%;
+    margin-bottom: 5%;
 }
 #h3-1-1{
     text-align: center;
@@ -45,4 +47,17 @@ a:active { text-decoration: none; }
     margin-top: 10%;
     text-align: center;
     margin-bottom: 10%;
+}
+
+
+.img-place-1{
+    width: 10%;
+}
+
+.header{
+    display: inline;
+}
+
+.text-area-1{
+    display: inline;
 }
