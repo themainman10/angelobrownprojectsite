@@ -29,6 +29,6 @@ a:active { text-decoration: none; }
 }
 
 .text-bio{
-    text-align: right;
-    float: right;
+    text-align: center;
+    float:right
 }
